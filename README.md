@@ -1,0 +1,1 @@
+This is an example of a static website script developed using ChatGPT. I used NotePad++ to add a few more example images and edit some of the text. The majority of the way this site works, looks and feels was all generated with ChatGPT.
